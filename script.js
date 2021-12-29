@@ -50,4 +50,4 @@ console.log(randum(101,999)+"."+randum(101,999)+"."+randum(11,99)+"."+randum(1,9
 function namet(firstName, lastName){
   console.log(firstName+" "+lastName+","+" "+"Adınızdaki karakter sayısı:"+firstName.length);
 }
-namet("Kerem", "Çalışkan");
+namet("Alaattin", "Ataç");
